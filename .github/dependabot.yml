@@ -11,6 +11,6 @@ updates:
       interval: "weekly"
 
   - package-ecosystem: "gomod"
-    directory: "/"
+    d tuirectory: "/"
     schedule:
       interval: "weekly"
